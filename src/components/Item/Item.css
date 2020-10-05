@@ -1,0 +1,14 @@
+.card-text:last-child{
+	text-align:center;
+	font-weight:700;
+}
+
+.card{
+	border:1px solid lightgrey;
+	
+	
+}
+
+.pad{
+	padding:0.25rem;
+}

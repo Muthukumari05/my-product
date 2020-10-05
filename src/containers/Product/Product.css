@@ -1,0 +1,38 @@
+
+.addProduct{
+	margin-right:7%;
+}
+
+
+
+.first{
+	border:1px solid black;
+	height:500px;
+}
+.sec{
+	border:1px solid black;
+	height:500px;
+}
+.categories{
+	font-size:14px;
+	font-weight:500;
+	color:light-gray;
+}
+
+
+
+
+.cards{
+	border-color:whitesmoke;
+}
+.list-group-flush>.list-group-item{
+	
+	background-color:whitesmoke;
+}
+
+
+.current-page {
+  font-size: 1.5rem;
+  vertical-align: middle;
+}
+
